@@ -105,8 +105,8 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: rgba(255, 255, 255, 0.1);
-  color: #c6ac7f;
+  background: rgba(230, 230, 230, 1);
+  color: #990000;
   line-height: 1;
   margin-right: 8px;
   border-radius: 50%;
@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .social-links a:hover {
-  background: #990000;
+  background: #CCCCCC;
 }
 
 @media (max-width: 992px) {
